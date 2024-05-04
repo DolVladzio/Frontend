@@ -12,4 +12,4 @@ Rthythm - `https://dolvladzio.github.io/Frontend/my_websites/Rthythm/`
 
 VP - `https://dolvladzio.github.io/Frontend/my_websites/VP/`
 
-College - `https://dolvladzio.github.io/Frontend/my_websites/.../`
+College - `https://dolvladzio.github.io/Frontend/my_websites/College/`
