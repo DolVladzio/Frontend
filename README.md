@@ -1,5 +1,5 @@
 # Frontend
 
-My_websites - `https://github.com/DolVladzio/Frontend/tree/master/my_websites`
+My_websites - `https://dolvladzio.github.io/Frontend/my_websites/`
 
-Web_programing_college - `https://github.com/DolVladzio/Frontend/tree/master/Web_programing_college`
+Web_programing_college - `https://dolvladzio.github.io/Frontend/Web_programing_college`
