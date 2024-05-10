@@ -25,9 +25,9 @@
 
 📑Практична робота робота №12 - `https://dolvladzio.github.io/Frontend/Web_programing_college/Practical_work_12`
 
-📑Практична робота робота №13 - `https://dolvladzio.github.io/Frontend/Web_programing_college/...`
+📑Практична робота робота №13 - `https://dolvladzio.github.io/Frontend/Web_programing_college/Practical_work_13`
 
-📑Практична робота робота №14 - `https://dolvladzio.github.io/Frontend/Web_programing_college/...`
+📑Практична робота робота №14 - `https://dolvladzio.github.io/Frontend/Web_programing_college/Practical_work_14`
 
 📑Практична робота робота №15 - `https://dolvladzio.github.io/Frontend/Web_programing_college/Practical_work_15`
 
